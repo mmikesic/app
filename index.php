@@ -2,7 +2,7 @@
 
 
 <?php
-phpinfo();
+echo("Test ispisa");
 ?>
 
 
